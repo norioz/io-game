@@ -1,0 +1,23 @@
+{
+  "name": "io-game",
+  "version": "1.0.0",
+  "description": "experimental io game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norioz/io-game.git"
+  },
+  "keywords": [
+    "io",
+    "game"
+  ],
+  "author": "Brett Groshong",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/norioz/io-game/issues"
+  },
+  "homepage": "https://github.com/norioz/io-game#readme"
+}
