@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/norioz/io-game#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "phaser": "^3.11.0"
   }
 }
