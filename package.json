@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/norioz/io-game/issues"
   },
-  "homepage": "https://github.com/norioz/io-game#readme"
+  "homepage": "https://github.com/norioz/io-game#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
